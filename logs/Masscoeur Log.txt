@@ -1,0 +1,33 @@
+p16
+0.64A Fail start 500 end 135
+p17
+0.58A Replacement des strapsRéussite start 500end 135 avec claquement espacé
+p18
+0.60 Réussite start 1000 end 135
+p19
+0.56 Réussite start 1000 end 150
+p20
+0.56 Réussite mieux (plus rapide) start 1000 end 120
+p21
+0.56 Réussite rapide, pas de claquement start 1000 end 110
+p22
+? Réussite mieux (plus rapide) start 1000 end 100
+p23
+? Réussite mieux (plus rapide) start 1000 end 90 claquement sur la fin
+p24
+? Réussite mieux (plus rapide) start 1000 end 115
+p26
+0.58  Réussite mieux (plus rapide) start 1000 end 100
+p28
+0.58  Réussite start 1000 end 90
+p29
+0.56  Réussite start 1000 end 200
+
+1G : 
+
+0.63 compliqué (1/2) mieux (plus rapide) start 1000 end 115
+0.63 compliqué (1/2) mieux (plus rapide) start 1000 end 120
+0.69 compliqué (1/2) mieux (plus rapide) start 1000 end 100
+
+
+
